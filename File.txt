@@ -1,2 +1,4 @@
 Name: Yurii
 Surname: Cheban
+Date of birth: 03.09.1993
+City of birth: Ivano-Frankivsk
